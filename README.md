@@ -7,5 +7,5 @@ Place this in your chat script where your chat opens.
 Place this in your chat script where your chat closes.
 - TriggerServerEvent('beka-typing:server:typingStatus', false)
 
-*Pictures
+PREVIEW
 ![typing](https://github.com/user-attachments/assets/bda92660-cdae-47dc-b337-fbc566f45038)
